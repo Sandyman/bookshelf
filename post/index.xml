@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sander&#39;s Book Reviews </title>
+    <link>https://sandyman.github.io/bookshelf/post/index.xml</link>
+    <language>en-us</language>
+    <author>Sander Huijsen</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-10-19 14:19:26 &#43;0800 AWST</updated>
+
+    
+      
+        <item>
+          <title>art of action</title>
+          <link>https://sandyman.github.io/bookshelf/post/art-of-action/</link>
+          <pubDate>Wed, 19 Oct 2016 14:19:26 AWST</pubDate>
+          <author>Sander Huijsen</author>
+          <guid>https://sandyman.github.io/bookshelf/post/art-of-action/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;The Art of Action in September 2015&lt;/strong&gt;. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod auctor risus, vel feugiat ex tincidunt quis. Pellentesque condimentum at nulla nec iaculis. Donec ut erat erat. In pretium ante vitae mauris maximus, vitae finibus lacus congue. Pellentesque tincidunt ante in risus feugiat ornare. Duis fringilla molestie feugiat. In hac habitasse platea dictumst. Ut porttitor lacus turpis, eget porta mi auctor ut. Donec sem magna, rhoncus sit amet condimentum id, suscipit eget quam. Nullam mollis libero ex, ut porttitor sem tempor quis. Mauris nisl dolor, ultricies a orci ac, pellentesque molestie lacus. Etiam erat odio, pulvinar nec eros interdum, varius rutrum urna. Sed eu facilisis lacus. Integer nec commodo ipsum. Nulla sagittis, ipsum nec tempus tincidunt, mauris dolor imperdiet eros, id mattis massa metus consectetur nulla.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>https://sandyman.github.io/bookshelf/post/good-to-great/</link>
+          <pubDate>Wed, 19 Oct 2016 14:19:26 AWST</pubDate>
+          <author>Sander Huijsen</author>
+          <guid>https://sandyman.github.io/bookshelf/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
